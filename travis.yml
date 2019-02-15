@@ -20,4 +20,4 @@ deploy:
   provider: heroku
   api-key: 
     secure: $HEROKU_API_KEY
-  app: COLOQUE_AQUI_SUA_APP_DO_HEROKU
+  app: labcampusparty-geandre
